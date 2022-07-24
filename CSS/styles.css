@@ -1,0 +1,19 @@
+body {
+    background-color: #FEFBF6; 
+ }
+
+ hr {
+     border-style: none;
+     border-top-style: dotted;
+     border-color: #3D3C42;
+     border-width: 5px;
+     width: 35%;
+ }
+
+ h1, h2 {
+    color: #7F5283;
+ }
+
+ p:hover {
+    color: red;
+ }
